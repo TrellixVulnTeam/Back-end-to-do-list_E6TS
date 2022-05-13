@@ -1,0 +1,6 @@
+CREATE TABLE "todo"(
+    "id" INTEGER NOT NULL,
+    "name" TEXT NOT NULL,
+    "date" TEXT NOT NULL,
+    PRIMARY KEY("id" AUTOINCREMENT)
+);
